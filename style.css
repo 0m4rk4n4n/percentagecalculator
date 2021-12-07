@@ -1,0 +1,124 @@
+header,footer
+{
+    margin:0;
+    padding:0
+}
+
+body
+{
+     background:url("back.jpg");
+    color:firebrick;
+padding-top:150px;
+     font-family: Rampart One;
+    
+    
+}
+img
+{ text-align: center;
+    margin:0 auto;
+    display: block;
+
+
+}
+div
+{
+    position:absolute;
+    top:0;
+    height:100px;
+ background-image: linear-gradient(to bottom right, #ee0979, #ff6a00);
+ width:100%;
+    margin:0;
+    overflow:hidden;
+    
+}
+navbar div li
+{
+    display: inline-block;
+}
+div,p
+{
+    text-align: center;
+    color:firebrick;
+}
+h1,h2,h3
+{   text-align: center;
+    margin:0 auto;
+    display: block;
+    color:firebrick;
+    
+}
+form
+{
+
+   text-align: center;
+    margin:0 auto;
+    display: block;
+    
+}
+ form input
+{   
+ border: 1px solid red;
+    height:20px;
+    width:70px;
+    text-align: center;
+    width:80px;
+        color:black;
+}
+
+input:hover
+{
+   transition-duration: 1000ms;
+    background-color:red;
+
+}
+
+li 
+{
+
+margin:0;
+    display: inline-block;
+    padding:20px;
+    
+    
+}
+li a
+{
+    list-style:none;
+    text-decoration: none;
+    padding:70px;
+}
+
+a
+{
+     text-decoration: none;
+    list-style: none; 
+    font-size: 35px;
+}
+.floatleft
+{
+    float:left;
+}
+.floatright
+{
+    float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
